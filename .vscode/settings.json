@@ -3,6 +3,8 @@
         "*.tcc": "c",
         "algorithm": "c",
         "fstream": "c",
-        "paging.h": "c"
+        "paging.h": "c",
+        "process.h": "c",
+        "elfloader.h": "c"
     }
 }
